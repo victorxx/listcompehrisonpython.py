@@ -1,7 +1,4 @@
 
-
-
-
 numeros=[1,1,12]
 divisao=[numero / 2 for numero in numeros]
 multiplicacao=[numero * 2 for numero in numeros]
